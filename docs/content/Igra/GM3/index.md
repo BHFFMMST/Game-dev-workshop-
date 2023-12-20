@@ -1,4 +1,4 @@
-##Broj života
+##Number of lives
 
 Sada ćemo napraviti da nam igrač ima 3 života.
 Otvoriti skriptu PlayerDeath
