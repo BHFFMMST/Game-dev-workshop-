@@ -1,5 +1,6 @@
-Dokumentacija za Game Dev Workshop. Napravljen projekt se nalazi na [linku](https://github.com/almedinmesic/Unity-2D-platformer)
-Ovaj workshop sadrži sve bitne informacije za početnika u Game developmentu.Unity je game engine koji koji koristi C# programski jezik,ali za ovu radionicu je dovoljno osnovno znanje iz C++. Na ovoj radionici će se praviti Super Mario klon.
+Dokumentacija za Game Dev Workshop. Dokumentacija se nalaz na linku u deskripciji. Napravljen projekt se nalazi na [linku](https://github.com/almedinmesic/Unity-2D-platformer).
+Ovaj workshop sadrži sve bitne informacije za početnika u Game developmentu.Unity je game engine, može se download-ati na[linku](https://unity.com/download). On koristi C# programski jezik, ali za ovu radionicu je dovoljno osnovno znanje iz C++. 
+Na ovoj radionici će se praviti Super Mario klon.
 Sadržaj:
   - Prva radionica: Uvod u Unity, kreatanje(fizika, kretanje, ground check)
   - Druga radionica: Upoznavanje sa Tilemap(rad sa assetima i crtanje levela)
@@ -9,5 +10,6 @@ Sadržaj:
   - Šesta radionica: Game Mechanics(broj života, padajuće platforme, tramploine i killable enemies)
 
 
-[dokumentacija](https://bhffmmst.github.io/Game-dev-workshop-/)
+
+
 
