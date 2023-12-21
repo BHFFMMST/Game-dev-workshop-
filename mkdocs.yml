@@ -11,7 +11,7 @@ site_name: Unity-docs
 
 plugins:
   - search
-  - mermaid2
+  
 
 theme:
   name: material
