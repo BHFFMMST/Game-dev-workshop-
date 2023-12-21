@@ -8,6 +8,6 @@ Sadržaj:
   - Peta radionica: Game Mechanics(Rotating saws, rad sa više levela, sound effecti i muzika, rad sa menijima)
   - Šesta radionica: Game Mechanics(broj života, padajuće platforme, tranploine i killable enemies)
 
-[Dokumentacija](https://bhffmmst.github.io/Game-dev-workshop/)
+
 
 
