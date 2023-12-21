@@ -6,7 +6,7 @@ Sadržaj:
   - Treća radionica: Rad sa Animacijama
   - Četvrta radioncia: Game Mechanics(collect items, death logic i pokretne platforme)
   - Peta radionica: Game Mechanics(Rotating saws, rad sa više levela, sound effecti i muzika, rad sa menijima)
-  - Šesta radionica: Game Mechanics(broj života, padajuće platforme, tranploine i killable enemies)
+  - Šesta radionica: Game Mechanics(broj života, padajuće platforme, tramploine i killable enemies)
 
 
 
