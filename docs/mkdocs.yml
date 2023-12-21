@@ -82,11 +82,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
 
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  
 
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
   - attr_list
